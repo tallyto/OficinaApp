@@ -11,9 +11,9 @@ Você deverá fazer a instalação do React Native no seu computador. Para isso,
 
 ### Iniciando a App
 
-- Faça o clone do projeto: ```git clone ```
+- Faça o clone do projeto: ```git clone https://github.com/otallyto/OficinaApp.git```
 - Acesse a pasta da App: ```cd OficinaApp```
-- Rode o yarn para instalar as dependências: ```npm install```
+- Rode o npm para instalar as dependências: ```npm install```
 - Inicie a App: ```react-native run-android```
 
 Se tudo ocorreu bem na instalação do React Native, o emulador Android será iniciado com a App.
